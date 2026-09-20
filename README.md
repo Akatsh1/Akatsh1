@@ -17,7 +17,7 @@
 
 ## 🧐 关于我
 
-学生，坐标 **重庆 / 东莞** 两地跑。长期在折腾开发者工具、AI 工具链和一些「没什么用但自己用得上」的系统小工具。
+学生，喜欢折腾开发者工具、AI 工具链和一些「没什么用但自己也许用得上」的系统小工具。
 
 我偏爱把真实使用中遇到的问题做成 CLI、脚本或可复现的部署方案，并且尽量维护到真正能用；比起贴结果，更愿意把「为什么」讲明白。
 
@@ -27,13 +27,15 @@
 - 🐧 **Linux 小工具**：写一些自己用的小脚本、CLI，顺手也研究内核流转
 - 📚 **持续记录**：把学习过程写成博客，追踪 LLM 生产应用相关的实践
 
-## ⭐ 代表项目
+## 项目
 
 项目 | 做什么 | 主要技术
 :--- | :--- | :---
 [**simple-bilibili-downloader**](https://github.com/Akatsh1/simple-bilibili-downloader) | B 站视频下载 CLI：交互式工作流、DASH 流选择、多画质/多编码、并行下载与断点续传 | Rust · CLI
+
 [**course_zimu**](https://github.com/Akatsh1/course_zimu) | 把课程视频批量转成带时间轴的 SRT 字幕 | Python · faster-whisper
-[**PointCloud-Filter-Test**](https://github.com/Akatsh1/PointCloud-Filter-Test) | 基于 PCL 的点云滤波与可视化实验，验证不同滤波参数的效果 | C++ · PCL · CMake
+
+[**PointCloud-Filter-Test**](https://github.com/Akatsh1/PointCloud-Filter-Test) | 在江铃羿平台，基于 PCL 的点云滤波与可视化实验，验证不同滤波参数的效果 | C++ · PCL · CMake
 
 > 还会把看番、摄影、写博客的日常一起记录在 [我的博客](https://akatsh1.github.io/) 里。
 
@@ -52,10 +54,34 @@
 
 <div align="center">
 
-![GitHub contribution snake](https://raw.githubusercontent.com/Akatsh1/Akatsh1/output/github-contribution-grid-snake.svg)
+<!-- 贡献热力图（无需额外配置，始终可渲染） -->
+<img src="https://ghchart.rshah.org/2ea44f/Akatsh1" alt="Akatshi 的 GitHub 贡献热力图" width="100%" />
 
-![Akatshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akatsh1&show_icons=true&hide_border=true&count_private=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsh1&layout=compact&hide_border=true&theme=transparent)
+<!-- 贪吃蛇：首次推送后由 Snake Action 生成到 output 分支，见 .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akatsh1/Akatsh1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akatsh1/Akatsh1/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Akatsh1/Akatsh1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- 连续贡献 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-dark-blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
+</picture>
+
+<!-- 概况与语言（替代已停服的 github-readme-stats） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akatsh1&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akatsh1&theme=github" />
+  <img height="150" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akatsh1&theme=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akatsh1&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akatsh1&theme=github" />
+  <img height="150" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akatsh1&theme=github" />
+</picture>
 
 </div>
 
