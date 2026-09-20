@@ -35,11 +35,11 @@
 
 [**course_zimu**](https://github.com/Akatsh1/course_zimu) | 把课程视频批量转成带时间轴的 SRT 字幕 | Python · faster-whisper
 
-[**PointCloud-Filter-Test**](https://github.com/Akatsh1/PointCloud-Filter-Test) | 在江铃羿平台，基于 PCL 的点云滤波与可视化实验，验证不同滤波参数的效果 | C++ · PCL · CMake
+[**PointCloud-Filter-Test**](https://github.com/Akatsh1/PointCloud-Filter-Test) | 在AD10边缘计算平台，基于 PCL 的点云滤波与可视化实验，验证不同滤波参数的效果 | C++ · PCL · CMake
 
 > 还会把看番、摄影、写博客的日常一起记录在 [我的博客](https://akatsh1.github.io/) 里。
 
-## 🛠️ 技术栈
+## 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -50,12 +50,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🐍 贡献轨迹
+## 贡献轨迹
 
 <div align="center">
 
 <!-- 贡献热力图（无需额外配置，始终可渲染） -->
-<img src="https://ghchart.rshah.org/2ea44f/Akatsh1" alt="Akatshi 的 GitHub 贡献热力图" width="100%" />
+<!-- <img src="https://ghchart.rshah.org/2ea44f/Akatsh1" alt="Akatshi 的 GitHub 贡献热力图" width="100%" /> -->
 
 <!-- 贪吃蛇：首次推送后由 Snake Action 生成到 output 分支，见 .github/workflows/snake.yml -->
 <picture>
@@ -65,11 +65,11 @@
 </picture>
 
 <!-- 连续贡献 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-dark-blue" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
-</picture>
+    <!-- <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-dark-blue" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
+      <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
+    </picture> -->
 
 <!-- 概况与语言（替代已停服的 github-readme-stats） -->
 <picture>
