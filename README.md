@@ -77,6 +77,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akatsh1&theme=github" />
   <img height="150" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akatsh1&theme=github" />
 </picture>
+
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akatsh1&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akatsh1&theme=github" />
