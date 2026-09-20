@@ -4,7 +4,9 @@
 
 # Hi, I'm Akatshi 👋
 
-**学生 / 重庆 · 东莞 两地跑**
+**Agent 开发 · AI 工具链 · Linux 小工具**
+
+把踩过的坑整理成能跑起来、能重复用的小项目。
 
 [![Blog](https://img.shields.io/badge/Blog-akatsh1.github.io-2ea44f?style=flat-square&logo=astro&logoColor=white)](https://akatsh1.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Akatsh1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akatsh1)
@@ -13,73 +15,49 @@
 
 </div>
 
-## 🧑💻 关于我
+## 🧐 关于我
 
-我是 **Akatshi**，一名学生，常驻 **重庆** 和 **东莞**，因为家庭关系经常两头跑。
+学生，坐标 **重庆 / 东莞** 两地跑。长期在折腾开发者工具、AI 工具链和一些「没什么用但自己用得上」的系统小工具。
 
-我性格比较内向，但对新事物充满好奇。喜欢独立思考，也乐于与人交流分享——找到同类时，我会一转社牛形象。
+我偏爱把真实使用中遇到的问题做成 CLI、脚本或可复现的部署方案，并且尽量维护到真正能用；比起贴结果，更愿意把「为什么」讲明白。
 
----
+- 🤖 **Agent 开发 / Workflow 编排**：日常用 ClaudeCode、PI、Codex 折腾 agent 与自动化流程
+- 🧰 **AI / 工具链**：把 LLM 能力接进自己的日常，做 API 接入、字幕生成、数据小工具
+- 🦀 **Rust CLI**：轻量、交互友好的命令行工具，解决下载、批处理等重复劳动
+- 🐧 **Linux 小工具**：写一些自己用的小脚本、CLI，顺手也研究内核流转
+- 📚 **持续记录**：把学习过程写成博客，追踪 LLM 生产应用相关的实践
 
-## 🚀 我在做什么
+## ⭐ 代表项目
 
-- **当前在做**：Agent 开发、Workflow 编排相关学习，写一点没什么用的 Linux 小工具
-- **Coding Agent**：ClaudeCode、PI、Codex
-- **技术栈**：
+项目 | 做什么 | 主要技术
+:--- | :--- | :---
+[**simple-bilibili-downloader**](https://github.com/Akatsh1/simple-bilibili-downloader) | B 站视频下载 CLI：交互式工作流、DASH 流选择、多画质/多编码、并行下载与断点续传 | Rust · CLI
+[**course_zimu**](https://github.com/Akatsh1/course_zimu) | 把课程视频批量转成带时间轴的 SRT 字幕 | Python · faster-whisper
+[**PointCloud-Filter-Test**](https://github.com/Akatsh1/PointCloud-Filter-Test) | 基于 PCL 的点云滤波与可视化实验，验证不同滤波参数的效果 | C++ · PCL · CMake
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+> 还会把看番、摄影、写博客的日常一起记录在 [我的博客](https://akatsh1.github.io/) 里。
 
-- **感兴趣的方向**：LLM 生产应用、Linux 内核流转
+## 🛠️ 技术栈
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🎮 兴趣与日常
-
-### ACG 爱好者
-
-看很多番，偶尔逛展。游戏常驻 **osu!mania**，Project Seikai。
-
-### 摄影爱好者
-
-拍照算半个老法师吧，旧时代残党，喜欢用单反，平时更多拍风光，现在在拍人像。
-
-| | |
-| --- | --- |
-| **机身** | Nikon D810　\|　Sony A7R3 |
-| **镜头** | 35mm f/1.4　\|　45mm f/1.8　\|　85mm f/1.8 |
-
----
-
-## 📝 关于这个博客
-
-[我的博客](https://akatsh1.github.io/) 记录技术学习笔记、踩坑记录、读书思考和生活记录。写作原则：
-
-- 记录自己真正实践过、想清楚的东西
-- 尽量把「为什么」讲明白，而不只是贴结果
-- 分享生活中好玩的事情
-
-如果某篇文章对你有帮助，或者发现了错误，欢迎随时指出，我会很开心收到反馈。
-
-> 最近在写：**文本生成里的采样参数三件套**、**向量数据库索引怎么选**、**WFC 生成体素地形**……
-
----
-
-## 📊 GitHub 统计
+## 🐍 贡献轨迹
 
 <div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/Akatsh1/Akatsh1/output/github-contribution-grid-snake.svg)
 
 ![Akatshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akatsh1&show_icons=true&hide_border=true&count_private=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsh1&layout=compact&hide_border=true&theme=transparent)
 
 </div>
-
----
 
 ## 📫 联系我
 
