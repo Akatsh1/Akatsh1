@@ -65,11 +65,11 @@
 </picture>
 
 <!-- 连续贡献 -->
-    <!-- <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-dark-blue" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
-      <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
-    </picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-dark-blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Akatsh1&hide_border=true&theme=github-green-purple" />
+</picture>
 
 <!-- 概况与语言（替代已停服的 github-readme-stats） -->
 <picture>
